@@ -1,0 +1,10 @@
+# Rust
+/target
+
+# Tauri / Vue / Node
+/app/node_modules
+/app/dist
+/app/src-tauri/target
+
+# Env
+.env
